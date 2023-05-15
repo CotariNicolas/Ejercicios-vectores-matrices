@@ -4,6 +4,7 @@
 int main(int argc, char const *argv[])
 {
     int nums[4];
+    int hola;
     printf("Ingrese 4 numeros\n");
     for (int i = 0; i < 4; i++)
     {
